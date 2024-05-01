@@ -3,2215 +3,2240 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>https://localhost:1313/ja/</loc>
+    <loc>https://diego.luissalberto.com/ja/</loc>
     <lastmod>9999-08-08T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
+      hreflang="es"
+      href="https://diego.luissalberto.com/"
+    />
+    <xhtml:link
+      rel="alternate"
       hreflang="en"
-      href="https://localhost:1313/"
+      href="https://diego.luissalberto.com/en/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="https://localhost:1313/it/"
+      href="https://diego.luissalberto.com/it/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh-cn"
-      href="https://localhost:1313/zh-cn/"
+      href="https://diego.luissalberto.com/zh-cn/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="https://localhost:1313/ja/"
+      href="https://diego.luissalberto.com/ja/"
     />
   </url>
   <url>
-    <loc>https://localhost:1313/ja/tags/blowfish/</loc>
+    <loc>https://diego.luissalberto.com/ja/tags/blowfish/</loc>
     <lastmod>2023-10-04T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
-      hreflang="en"
-      href="https://localhost:1313/tags/blowfish/"
+      hreflang="es"
+      href="https://diego.luissalberto.com/tags/blowfish/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="https://localhost:1313/it/tags/blowfish/"
+      href="https://diego.luissalberto.com/it/tags/blowfish/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh-cn"
-      href="https://localhost:1313/zh-cn/tags/blowfish/"
+      href="https://diego.luissalberto.com/zh-cn/tags/blowfish/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="https://localhost:1313/ja/tags/blowfish/"
+      href="https://diego.luissalberto.com/ja/tags/blowfish/"
     />
   </url>
   <url>
-    <loc>https://localhost:1313/ja/categories/blowfish/</loc>
+    <loc>https://diego.luissalberto.com/ja/categories/blowfish/</loc>
     <lastmod>2023-10-04T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
-      hreflang="en"
-      href="https://localhost:1313/categories/blowfish/"
+      hreflang="es"
+      href="https://diego.luissalberto.com/categories/blowfish/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="https://localhost:1313/it/categories/blowfish/"
+      href="https://diego.luissalberto.com/it/categories/blowfish/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh-cn"
-      href="https://localhost:1313/zh-cn/categories/blowfish/"
+      href="https://diego.luissalberto.com/zh-cn/categories/blowfish/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="https://localhost:1313/ja/categories/blowfish/"
+      href="https://diego.luissalberto.com/ja/categories/blowfish/"
     />
   </url>
   <url>
-    <loc>https://localhost:1313/ja/categories/</loc>
+    <loc>https://diego.luissalberto.com/ja/categories/</loc>
     <lastmod>2023-10-04T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
+      hreflang="es"
+      href="https://diego.luissalberto.com/categories/"
+    />
+    <xhtml:link
+      rel="alternate"
       hreflang="en"
-      href="https://localhost:1313/categories/"
+      href="https://diego.luissalberto.com/en/categories/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="https://localhost:1313/it/categories/"
+      href="https://diego.luissalberto.com/it/categories/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh-cn"
-      href="https://localhost:1313/zh-cn/categories/"
+      href="https://diego.luissalberto.com/zh-cn/categories/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="https://localhost:1313/ja/categories/"
+      href="https://diego.luissalberto.com/ja/categories/"
     />
   </url>
   <url>
-    <loc>https://localhost:1313/ja/tags/hugo/</loc>
+    <loc>https://diego.luissalberto.com/ja/tags/hugo/</loc>
     <lastmod>2023-10-04T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
-      hreflang="en"
-      href="https://localhost:1313/tags/hugo/"
+      hreflang="es"
+      href="https://diego.luissalberto.com/tags/hugo/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="https://localhost:1313/it/tags/hugo/"
+      href="https://diego.luissalberto.com/it/tags/hugo/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh-cn"
-      href="https://localhost:1313/zh-cn/tags/hugo/"
+      href="https://diego.luissalberto.com/zh-cn/tags/hugo/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="https://localhost:1313/ja/tags/hugo/"
+      href="https://diego.luissalberto.com/ja/tags/hugo/"
     />
   </url>
   <url>
-    <loc>https://localhost:1313/ja/authors/nunocoracao/</loc>
+    <loc>https://diego.luissalberto.com/ja/authors/nunocoracao/</loc>
     <lastmod>2023-10-04T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
-      hreflang="en"
-      href="https://localhost:1313/authors/nunocoracao/"
+      hreflang="es"
+      href="https://diego.luissalberto.com/authors/nunocoracao/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="https://localhost:1313/it/authors/nunocoracao/"
+      href="https://diego.luissalberto.com/it/authors/nunocoracao/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh-cn"
-      href="https://localhost:1313/zh-cn/authors/nunocoracao/"
+      href="https://diego.luissalberto.com/zh-cn/authors/nunocoracao/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="https://localhost:1313/ja/authors/nunocoracao/"
+      href="https://diego.luissalberto.com/ja/authors/nunocoracao/"
     />
   </url>
   <url>
-    <loc>https://localhost:1313/ja/categories/open-source/</loc>
+    <loc>https://diego.luissalberto.com/ja/categories/open-source/</loc>
     <lastmod>2023-10-04T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
-      hreflang="en"
-      href="https://localhost:1313/categories/open-source/"
+      hreflang="es"
+      href="https://diego.luissalberto.com/categories/open-source/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="https://localhost:1313/it/categories/open-source/"
+      href="https://diego.luissalberto.com/it/categories/open-source/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="https://localhost:1313/ja/categories/open-source/"
+      href="https://diego.luissalberto.com/ja/categories/open-source/"
     />
   </url>
   <url>
-    <loc>https://localhost:1313/ja/tags/tutorial/</loc>
+    <loc>https://diego.luissalberto.com/ja/tags/tutorial/</loc>
     <lastmod>2023-10-04T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
-      hreflang="en"
-      href="https://localhost:1313/tags/tutorial/"
+      hreflang="es"
+      href="https://diego.luissalberto.com/tags/tutorial/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="https://localhost:1313/it/tags/tutorial/"
+      href="https://diego.luissalberto.com/it/tags/tutorial/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="https://localhost:1313/ja/tags/tutorial/"
+      href="https://diego.luissalberto.com/ja/tags/tutorial/"
     />
   </url>
   <url>
-    <loc>https://localhost:1313/ja/tags/</loc>
+    <loc>https://diego.luissalberto.com/ja/tags/</loc>
     <lastmod>2023-10-04T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
+      hreflang="es"
+      href="https://diego.luissalberto.com/tags/"
+    />
+    <xhtml:link
+      rel="alternate"
       hreflang="en"
-      href="https://localhost:1313/tags/"
+      href="https://diego.luissalberto.com/en/tags/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="https://localhost:1313/it/tags/"
+      href="https://diego.luissalberto.com/it/tags/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh-cn"
-      href="https://localhost:1313/zh-cn/tags/"
+      href="https://diego.luissalberto.com/zh-cn/tags/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="https://localhost:1313/ja/tags/"
+      href="https://diego.luissalberto.com/ja/tags/"
     />
   </url>
   <url>
-    <loc>https://localhost:1313/ja/guides/</loc>
+    <loc>https://diego.luissalberto.com/ja/guides/</loc>
     <lastmod>2023-10-04T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
-      hreflang="en"
-      href="https://localhost:1313/guides/"
+      hreflang="es"
+      href="https://diego.luissalberto.com/guides/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="https://localhost:1313/it/guides/"
+      href="https://diego.luissalberto.com/it/guides/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh-cn"
-      href="https://localhost:1313/zh-cn/guides/"
+      href="https://diego.luissalberto.com/zh-cn/guides/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="https://localhost:1313/ja/guides/"
+      href="https://diego.luissalberto.com/ja/guides/"
     />
   </url>
   <url>
-    <loc>https://localhost:1313/ja/authors/</loc>
+    <loc>https://diego.luissalberto.com/ja/authors/</loc>
     <lastmod>2023-10-04T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
+      hreflang="es"
+      href="https://diego.luissalberto.com/authors/"
+    />
+    <xhtml:link
+      rel="alternate"
       hreflang="en"
-      href="https://localhost:1313/authors/"
+      href="https://diego.luissalberto.com/en/authors/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="https://localhost:1313/it/authors/"
+      href="https://diego.luissalberto.com/it/authors/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh-cn"
-      href="https://localhost:1313/zh-cn/authors/"
+      href="https://diego.luissalberto.com/zh-cn/authors/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="https://localhost:1313/ja/authors/"
+      href="https://diego.luissalberto.com/ja/authors/"
     />
   </url>
   <url>
-    <loc>https://localhost:1313/ja/examples/</loc>
+    <loc>https://diego.luissalberto.com/ja/examples/</loc>
     <lastmod>2023-10-02T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
-      hreflang="en"
-      href="https://localhost:1313/examples/"
+      hreflang="es"
+      href="https://diego.luissalberto.com/examples/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="https://localhost:1313/it/examples/"
+      href="https://diego.luissalberto.com/it/examples/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh-cn"
-      href="https://localhost:1313/zh-cn/examples/"
+      href="https://diego.luissalberto.com/zh-cn/examples/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="https://localhost:1313/ja/examples/"
+      href="https://diego.luissalberto.com/ja/examples/"
     />
   </url>
   <url>
-    <loc>https://localhost:1313/ja/authors/secondauthor/</loc>
+    <loc>https://diego.luissalberto.com/ja/authors/secondauthor/</loc>
     <lastmod>2022-10-12T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
-      hreflang="en"
-      href="https://localhost:1313/authors/secondauthor/"
+      hreflang="es"
+      href="https://diego.luissalberto.com/authors/secondauthor/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="https://localhost:1313/it/authors/secondauthor/"
+      href="https://diego.luissalberto.com/it/authors/secondauthor/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh-cn"
-      href="https://localhost:1313/zh-cn/authors/secondauthor/"
+      href="https://diego.luissalberto.com/zh-cn/authors/secondauthor/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="https://localhost:1313/ja/authors/secondauthor/"
+      href="https://diego.luissalberto.com/ja/authors/secondauthor/"
     />
   </url>
   <url>
-    <loc>https://localhost:1313/ja/tags/authors/</loc>
+    <loc>https://diego.luissalberto.com/ja/tags/authors/</loc>
     <lastmod>2022-10-12T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
-      hreflang="en"
-      href="https://localhost:1313/tags/authors/"
+      hreflang="es"
+      href="https://diego.luissalberto.com/tags/authors/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="https://localhost:1313/it/tags/authors/"
+      href="https://diego.luissalberto.com/it/tags/authors/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="https://localhost:1313/ja/tags/authors/"
+      href="https://diego.luissalberto.com/ja/tags/authors/"
     />
   </url>
   <url>
-    <loc>https://localhost:1313/ja/tags/sample/</loc>
+    <loc>https://diego.luissalberto.com/ja/tags/sample/</loc>
     <lastmod>2022-10-12T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
-      hreflang="en"
-      href="https://localhost:1313/tags/sample/"
+      hreflang="es"
+      href="https://diego.luissalberto.com/tags/sample/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="https://localhost:1313/it/tags/sample/"
+      href="https://diego.luissalberto.com/it/tags/sample/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="https://localhost:1313/ja/tags/sample/"
+      href="https://diego.luissalberto.com/ja/tags/sample/"
     />
   </url>
   <url>
-    <loc>https://localhost:1313/ja/samples/</loc>
+    <loc>https://diego.luissalberto.com/ja/samples/</loc>
     <lastmod>2022-10-12T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
-      hreflang="en"
-      href="https://localhost:1313/samples/"
+      hreflang="es"
+      href="https://diego.luissalberto.com/samples/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="https://localhost:1313/it/samples/"
+      href="https://diego.luissalberto.com/it/samples/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh-cn"
-      href="https://localhost:1313/zh-cn/samples/"
+      href="https://diego.luissalberto.com/zh-cn/samples/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="https://localhost:1313/ja/samples/"
+      href="https://diego.luissalberto.com/ja/samples/"
     />
   </url>
   <url>
-    <loc>https://localhost:1313/ja/samples/multiple-authors/</loc>
+    <loc>https://diego.luissalberto.com/ja/samples/multiple-authors/</loc>
     <lastmod>2022-10-12T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
-      hreflang="en"
-      href="https://localhost:1313/samples/multiple-authors/"
+      hreflang="es"
+      href="https://diego.luissalberto.com/samples/multiple-authors/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="https://localhost:1313/it/samples/multiple-authors/"
+      href="https://diego.luissalberto.com/it/samples/multiple-authors/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh-cn"
-      href="https://localhost:1313/zh-cn/samples/multiple-authors/"
+      href="https://diego.luissalberto.com/zh-cn/samples/multiple-authors/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="https://localhost:1313/ja/samples/multiple-authors/"
+      href="https://diego.luissalberto.com/ja/samples/multiple-authors/"
     />
   </url>
   <url>
-    <loc>https://localhost:1313/ja/tags/thumbnail/</loc>
+    <loc>https://diego.luissalberto.com/ja/tags/thumbnail/</loc>
     <lastmod>2022-09-26T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
-      hreflang="en"
-      href="https://localhost:1313/tags/thumbnail/"
+      hreflang="es"
+      href="https://diego.luissalberto.com/tags/thumbnail/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="https://localhost:1313/it/tags/thumbnail/"
+      href="https://diego.luissalberto.com/it/tags/thumbnail/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="https://localhost:1313/ja/tags/thumbnail/"
+      href="https://diego.luissalberto.com/ja/tags/thumbnail/"
     />
   </url>
   <url>
-    <loc>https://localhost:1313/ja/samples/thumbnail_sample/</loc>
+    <loc>https://diego.luissalberto.com/ja/samples/thumbnail_sample/</loc>
     <lastmod>2022-09-26T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
-      hreflang="en"
-      href="https://localhost:1313/samples/thumbnail_sample/"
+      hreflang="es"
+      href="https://diego.luissalberto.com/samples/thumbnail_sample/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="https://localhost:1313/it/samples/thumbnail_sample/"
+      href="https://diego.luissalberto.com/it/samples/thumbnail_sample/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh-cn"
-      href="https://localhost:1313/zh-cn/samples/thumbnail_sample/"
+      href="https://diego.luissalberto.com/zh-cn/samples/thumbnail_sample/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="https://localhost:1313/ja/samples/thumbnail_sample/"
+      href="https://diego.luissalberto.com/ja/samples/thumbnail_sample/"
     />
   </url>
   <url>
-    <loc>https://localhost:1313/ja/tags/docs/</loc>
+    <loc>https://diego.luissalberto.com/ja/tags/docs/</loc>
     <lastmod>2022-01-19T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
-      hreflang="en"
-      href="https://localhost:1313/tags/docs/"
+      hreflang="es"
+      href="https://diego.luissalberto.com/tags/docs/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="https://localhost:1313/it/tags/docs/"
+      href="https://diego.luissalberto.com/it/tags/docs/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh-cn"
-      href="https://localhost:1313/zh-cn/tags/docs/"
+      href="https://diego.luissalberto.com/zh-cn/tags/docs/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="https://localhost:1313/ja/tags/docs/"
+      href="https://diego.luissalberto.com/ja/tags/docs/"
     />
   </url>
   <url>
-    <loc>https://localhost:1313/ja/series/documentation/</loc>
+    <loc>https://diego.luissalberto.com/ja/series/documentation/</loc>
     <lastmod>2022-01-19T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
-      hreflang="en"
-      href="https://localhost:1313/series/documentation/"
+      hreflang="es"
+      href="https://diego.luissalberto.com/series/documentation/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="https://localhost:1313/it/series/documentation/"
+      href="https://diego.luissalberto.com/it/series/documentation/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="https://localhost:1313/ja/series/documentation/"
+      href="https://diego.luissalberto.com/ja/series/documentation/"
     />
   </url>
   <url>
-    <loc>https://localhost:1313/ja/tags/new/</loc>
+    <loc>https://diego.luissalberto.com/ja/tags/new/</loc>
     <lastmod>2022-01-19T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
-      hreflang="en"
-      href="https://localhost:1313/tags/new/"
+      hreflang="es"
+      href="https://diego.luissalberto.com/tags/new/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="https://localhost:1313/ja/tags/new/"
+      href="https://diego.luissalberto.com/ja/tags/new/"
     />
   </url>
   <url>
-    <loc>https://localhost:1313/ja/series/</loc>
+    <loc>https://diego.luissalberto.com/ja/series/</loc>
     <lastmod>2022-01-19T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
+      hreflang="es"
+      href="https://diego.luissalberto.com/series/"
+    />
+    <xhtml:link
+      rel="alternate"
       hreflang="en"
-      href="https://localhost:1313/series/"
+      href="https://diego.luissalberto.com/en/series/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="https://localhost:1313/it/series/"
+      href="https://diego.luissalberto.com/it/series/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh-cn"
-      href="https://localhost:1313/zh-cn/series/"
+      href="https://diego.luissalberto.com/zh-cn/series/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="https://localhost:1313/ja/series/"
+      href="https://diego.luissalberto.com/ja/series/"
     />
   </url>
   <url>
-    <loc>https://localhost:1313/ja/docs/welcome/</loc>
+    <loc>https://diego.luissalberto.com/ja/docs/welcome/</loc>
     <lastmod>2022-01-19T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
-      hreflang="en"
-      href="https://localhost:1313/docs/welcome/"
+      hreflang="es"
+      href="https://diego.luissalberto.com/docs/welcome/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="https://localhost:1313/it/docs/welcome/"
+      href="https://diego.luissalberto.com/it/docs/welcome/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh-cn"
-      href="https://localhost:1313/zh-cn/docs/welcome/"
+      href="https://diego.luissalberto.com/zh-cn/docs/welcome/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="https://localhost:1313/ja/docs/welcome/"
+      href="https://diego.luissalberto.com/ja/docs/welcome/"
     />
   </url>
   <url>
-    <loc>https://localhost:1313/ja/docs/</loc>
+    <loc>https://diego.luissalberto.com/ja/docs/</loc>
     <lastmod>2022-01-19T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
-      hreflang="en"
-      href="https://localhost:1313/docs/"
+      hreflang="es"
+      href="https://diego.luissalberto.com/docs/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="https://localhost:1313/it/docs/"
+      href="https://diego.luissalberto.com/it/docs/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh-cn"
-      href="https://localhost:1313/zh-cn/docs/"
+      href="https://diego.luissalberto.com/zh-cn/docs/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="https://localhost:1313/ja/docs/"
+      href="https://diego.luissalberto.com/ja/docs/"
     />
   </url>
   <url>
-    <loc>https://localhost:1313/ja/tags/installation/</loc>
+    <loc>https://diego.luissalberto.com/ja/tags/installation/</loc>
     <lastmod>2020-08-16T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
-      hreflang="en"
-      href="https://localhost:1313/tags/installation/"
+      hreflang="es"
+      href="https://diego.luissalberto.com/tags/installation/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="https://localhost:1313/ja/tags/installation/"
+      href="https://diego.luissalberto.com/ja/tags/installation/"
     />
   </url>
   <url>
-    <loc>https://localhost:1313/ja/docs/installation/</loc>
+    <loc>https://diego.luissalberto.com/ja/docs/installation/</loc>
     <lastmod>2020-08-16T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
-      hreflang="en"
-      href="https://localhost:1313/docs/installation/"
+      hreflang="es"
+      href="https://diego.luissalberto.com/docs/installation/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="https://localhost:1313/it/docs/installation/"
+      href="https://diego.luissalberto.com/it/docs/installation/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh-cn"
-      href="https://localhost:1313/zh-cn/docs/installation/"
+      href="https://diego.luissalberto.com/zh-cn/docs/installation/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="https://localhost:1313/ja/docs/installation/"
+      href="https://diego.luissalberto.com/ja/docs/installation/"
     />
   </url>
   <url>
-    <loc>https://localhost:1313/ja/docs/getting-started/</loc>
+    <loc>https://diego.luissalberto.com/ja/docs/getting-started/</loc>
     <lastmod>2020-08-15T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
-      hreflang="en"
-      href="https://localhost:1313/docs/getting-started/"
+      hreflang="es"
+      href="https://diego.luissalberto.com/docs/getting-started/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="https://localhost:1313/it/docs/per-iniziare/"
+      href="https://diego.luissalberto.com/it/docs/per-iniziare/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh-cn"
-      href="https://localhost:1313/zh-cn/docs/getting-started/"
+      href="https://diego.luissalberto.com/zh-cn/docs/getting-started/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="https://localhost:1313/ja/docs/getting-started/"
+      href="https://diego.luissalberto.com/ja/docs/getting-started/"
     />
   </url>
   <url>
-    <loc>https://localhost:1313/ja/tags/config/</loc>
+    <loc>https://diego.luissalberto.com/ja/tags/config/</loc>
     <lastmod>2020-08-14T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
-      hreflang="en"
-      href="https://localhost:1313/tags/config/"
+      hreflang="es"
+      href="https://diego.luissalberto.com/tags/config/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="https://localhost:1313/it/tags/config/"
+      href="https://diego.luissalberto.com/it/tags/config/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="https://localhost:1313/ja/tags/config/"
+      href="https://diego.luissalberto.com/ja/tags/config/"
     />
   </url>
   <url>
-    <loc>https://localhost:1313/ja/docs/configuration/</loc>
+    <loc>https://diego.luissalberto.com/ja/docs/configuration/</loc>
     <lastmod>2020-08-14T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
-      hreflang="en"
-      href="https://localhost:1313/docs/configuration/"
+      hreflang="es"
+      href="https://diego.luissalberto.com/docs/configuration/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="https://localhost:1313/it/docs/configuration/"
+      href="https://diego.luissalberto.com/it/docs/configuration/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh-cn"
-      href="https://localhost:1313/zh-cn/docs/configuration/"
+      href="https://diego.luissalberto.com/zh-cn/docs/configuration/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="https://localhost:1313/ja/docs/configuration/"
+      href="https://diego.luissalberto.com/ja/docs/configuration/"
     />
   </url>
   <url>
-    <loc>https://localhost:1313/ja/tags/icons/</loc>
+    <loc>https://diego.luissalberto.com/ja/tags/icons/</loc>
     <lastmod>2022-03-09T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
-      hreflang="en"
-      href="https://localhost:1313/tags/icons/"
+      hreflang="es"
+      href="https://diego.luissalberto.com/tags/icons/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="https://localhost:1313/it/tags/icons/"
+      href="https://diego.luissalberto.com/it/tags/icons/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="https://localhost:1313/ja/tags/icons/"
+      href="https://diego.luissalberto.com/ja/tags/icons/"
     />
   </url>
   <url>
-    <loc>https://localhost:1313/ja/tags/shortcodes/</loc>
+    <loc>https://diego.luissalberto.com/ja/tags/shortcodes/</loc>
     <lastmod>2022-03-09T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
-      hreflang="en"
-      href="https://localhost:1313/tags/shortcodes/"
+      hreflang="es"
+      href="https://diego.luissalberto.com/tags/shortcodes/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="https://localhost:1313/it/tags/shortcodes/"
+      href="https://diego.luissalberto.com/it/tags/shortcodes/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="https://localhost:1313/ja/tags/shortcodes/"
+      href="https://diego.luissalberto.com/ja/tags/shortcodes/"
     />
   </url>
   <url>
-    <loc>https://localhost:1313/ja/tags/users/</loc>
+    <loc>https://diego.luissalberto.com/ja/tags/users/</loc>
     <lastmod>2020-08-14T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
-      hreflang="en"
-      href="https://localhost:1313/tags/users/"
+      hreflang="es"
+      href="https://diego.luissalberto.com/tags/users/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="https://localhost:1313/it/tags/users/"
+      href="https://diego.luissalberto.com/it/tags/users/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="https://localhost:1313/ja/tags/users/"
+      href="https://diego.luissalberto.com/ja/tags/users/"
     />
   </url>
   <url>
-    <loc>https://localhost:1313/ja/samples/icons/</loc>
+    <loc>https://diego.luissalberto.com/ja/samples/icons/</loc>
     <lastmod>2022-03-09T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
-      hreflang="en"
-      href="https://localhost:1313/samples/icons/"
+      hreflang="es"
+      href="https://diego.luissalberto.com/samples/icons/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="https://localhost:1313/it/samples/icons/"
+      href="https://diego.luissalberto.com/it/samples/icons/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh-cn"
-      href="https://localhost:1313/zh-cn/samples/icons/"
+      href="https://diego.luissalberto.com/zh-cn/samples/icons/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="https://localhost:1313/ja/samples/icons/"
+      href="https://diego.luissalberto.com/ja/samples/icons/"
     />
   </url>
   <url>
-    <loc>https://localhost:1313/ja/users/</loc>
+    <loc>https://diego.luissalberto.com/ja/users/</loc>
     <lastmod>2020-08-14T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
-      hreflang="en"
-      href="https://localhost:1313/users/"
+      hreflang="es"
+      href="https://diego.luissalberto.com/users/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="https://localhost:1313/it/users/"
+      href="https://diego.luissalberto.com/it/users/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh-cn"
-      href="https://localhost:1313/zh-cn/users/"
+      href="https://diego.luissalberto.com/zh-cn/users/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="https://localhost:1313/ja/users/"
+      href="https://diego.luissalberto.com/ja/users/"
     />
   </url>
   <url>
-    <loc>https://localhost:1313/ja/tags/homepage/</loc>
+    <loc>https://diego.luissalberto.com/ja/tags/homepage/</loc>
     <lastmod>2020-08-13T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
-      hreflang="en"
-      href="https://localhost:1313/tags/homepage/"
+      hreflang="es"
+      href="https://diego.luissalberto.com/tags/homepage/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="https://localhost:1313/it/tags/homepage/"
+      href="https://diego.luissalberto.com/it/tags/homepage/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="https://localhost:1313/ja/tags/homepage/"
+      href="https://diego.luissalberto.com/ja/tags/homepage/"
     />
   </url>
   <url>
-    <loc>https://localhost:1313/ja/docs/homepage-layout/</loc>
+    <loc>https://diego.luissalberto.com/ja/docs/homepage-layout/</loc>
     <lastmod>2020-08-13T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
-      hreflang="en"
-      href="https://localhost:1313/docs/homepage-layout/"
+      hreflang="es"
+      href="https://diego.luissalberto.com/docs/homepage-layout/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="https://localhost:1313/it/docs/homepage-layout/"
+      href="https://diego.luissalberto.com/it/docs/homepage-layout/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh-cn"
-      href="https://localhost:1313/zh-cn/docs/homepage-layout/"
+      href="https://diego.luissalberto.com/zh-cn/docs/homepage-layout/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="https://localhost:1313/ja/docs/homepage-layout/"
+      href="https://diego.luissalberto.com/ja/docs/homepage-layout/"
     />
   </url>
   <url>
-    <loc>https://localhost:1313/ja/tags/layouts/</loc>
+    <loc>https://diego.luissalberto.com/ja/tags/layouts/</loc>
     <lastmod>2020-08-13T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
-      hreflang="en"
-      href="https://localhost:1313/tags/layouts/"
+      hreflang="es"
+      href="https://diego.luissalberto.com/tags/layouts/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="https://localhost:1313/it/tags/layouts/"
+      href="https://diego.luissalberto.com/it/tags/layouts/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="https://localhost:1313/ja/tags/layouts/"
+      href="https://diego.luissalberto.com/ja/tags/layouts/"
     />
   </url>
   <url>
-    <loc>https://localhost:1313/ja/tags/icon/</loc>
+    <loc>https://diego.luissalberto.com/ja/tags/icon/</loc>
     <lastmod>2020-08-11T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
-      hreflang="en"
-      href="https://localhost:1313/tags/icon/"
+      hreflang="es"
+      href="https://diego.luissalberto.com/tags/icon/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="https://localhost:1313/it/tags/icon/"
+      href="https://diego.luissalberto.com/it/tags/icon/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="https://localhost:1313/ja/tags/icon/"
+      href="https://diego.luissalberto.com/ja/tags/icon/"
     />
   </url>
   <url>
-    <loc>https://localhost:1313/ja/tags/lead/</loc>
+    <loc>https://diego.luissalberto.com/ja/tags/lead/</loc>
     <lastmod>2020-08-11T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
-      hreflang="en"
-      href="https://localhost:1313/tags/lead/"
+      hreflang="es"
+      href="https://diego.luissalberto.com/tags/lead/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="https://localhost:1313/it/tags/lead/"
+      href="https://diego.luissalberto.com/it/tags/lead/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh-cn"
-      href="https://localhost:1313/zh-cn/tags/lead/"
+      href="https://diego.luissalberto.com/zh-cn/tags/lead/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="https://localhost:1313/ja/tags/lead/"
+      href="https://diego.luissalberto.com/ja/tags/lead/"
     />
   </url>
   <url>
-    <loc>https://localhost:1313/ja/tags/mermaid/</loc>
+    <loc>https://diego.luissalberto.com/ja/tags/mermaid/</loc>
     <lastmod>2020-08-11T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
-      hreflang="en"
-      href="https://localhost:1313/tags/mermaid/"
+      hreflang="es"
+      href="https://diego.luissalberto.com/tags/mermaid/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="https://localhost:1313/it/tags/mermaid/"
+      href="https://diego.luissalberto.com/it/tags/mermaid/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh-cn"
-      href="https://localhost:1313/zh-cn/tags/mermaid/"
+      href="https://diego.luissalberto.com/zh-cn/tags/mermaid/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="https://localhost:1313/ja/tags/mermaid/"
+      href="https://diego.luissalberto.com/ja/tags/mermaid/"
     />
   </url>
   <url>
-    <loc>https://localhost:1313/ja/docs/shortcodes/</loc>
+    <loc>https://diego.luissalberto.com/ja/docs/shortcodes/</loc>
     <lastmod>2020-08-11T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
-      hreflang="en"
-      href="https://localhost:1313/docs/shortcodes/"
+      hreflang="es"
+      href="https://diego.luissalberto.com/docs/shortcodes/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="https://localhost:1313/it/docs/shortcodes/"
+      href="https://diego.luissalberto.com/it/docs/shortcodes/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh-cn"
-      href="https://localhost:1313/zh-cn/docs/shortcodes/"
+      href="https://diego.luissalberto.com/zh-cn/docs/shortcodes/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="https://localhost:1313/ja/docs/shortcodes/"
+      href="https://diego.luissalberto.com/ja/docs/shortcodes/"
     />
   </url>
   <url>
-    <loc>https://localhost:1313/ja/tags/analytics/</loc>
+    <loc>https://diego.luissalberto.com/ja/tags/analytics/</loc>
     <lastmod>2020-08-10T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
-      hreflang="en"
-      href="https://localhost:1313/tags/analytics/"
+      hreflang="es"
+      href="https://diego.luissalberto.com/tags/analytics/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="https://localhost:1313/it/tags/analytics/"
+      href="https://diego.luissalberto.com/it/tags/analytics/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="https://localhost:1313/ja/tags/analytics/"
+      href="https://diego.luissalberto.com/ja/tags/analytics/"
     />
   </url>
   <url>
-    <loc>https://localhost:1313/ja/tags/comments/</loc>
+    <loc>https://diego.luissalberto.com/ja/tags/comments/</loc>
     <lastmod>2020-08-10T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
-      hreflang="en"
-      href="https://localhost:1313/tags/comments/"
+      hreflang="es"
+      href="https://diego.luissalberto.com/tags/comments/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="https://localhost:1313/it/tags/comments/"
+      href="https://diego.luissalberto.com/it/tags/comments/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="https://localhost:1313/ja/tags/comments/"
+      href="https://diego.luissalberto.com/ja/tags/comments/"
     />
   </url>
   <url>
-    <loc>https://localhost:1313/ja/tags/favicons/</loc>
+    <loc>https://diego.luissalberto.com/ja/tags/favicons/</loc>
     <lastmod>2020-08-10T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
-      hreflang="en"
-      href="https://localhost:1313/tags/favicons/"
+      hreflang="es"
+      href="https://diego.luissalberto.com/tags/favicons/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="https://localhost:1313/it/tags/favicons/"
+      href="https://diego.luissalberto.com/it/tags/favicons/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="https://localhost:1313/ja/tags/favicons/"
+      href="https://diego.luissalberto.com/ja/tags/favicons/"
     />
   </url>
   <url>
-    <loc>https://localhost:1313/ja/tags/front-matter/</loc>
+    <loc>https://diego.luissalberto.com/ja/tags/front-matter/</loc>
     <lastmod>2020-08-10T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
-      hreflang="en"
-      href="https://localhost:1313/tags/front-matter/"
+      hreflang="es"
+      href="https://diego.luissalberto.com/tags/front-matter/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="https://localhost:1313/it/tags/front-matter/"
+      href="https://diego.luissalberto.com/it/tags/front-matter/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh-cn"
-      href="https://localhost:1313/zh-cn/tags/front-matter/"
+      href="https://diego.luissalberto.com/zh-cn/tags/front-matter/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="https://localhost:1313/ja/tags/front-matter/"
+      href="https://diego.luissalberto.com/ja/tags/front-matter/"
     />
   </url>
   <url>
-    <loc>https://localhost:1313/ja/docs/front-matter/</loc>
+    <loc>https://diego.luissalberto.com/ja/docs/front-matter/</loc>
     <lastmod>2020-08-10T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
-      hreflang="en"
-      href="https://localhost:1313/docs/front-matter/"
+      hreflang="es"
+      href="https://diego.luissalberto.com/docs/front-matter/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="https://localhost:1313/it/docs/front-matter/"
+      href="https://diego.luissalberto.com/it/docs/front-matter/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh-cn"
-      href="https://localhost:1313/zh-cn/docs/front-matter/"
+      href="https://diego.luissalberto.com/zh-cn/docs/front-matter/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="https://localhost:1313/ja/docs/front-matter/"
+      href="https://diego.luissalberto.com/ja/docs/front-matter/"
     />
   </url>
   <url>
-    <loc>https://localhost:1313/ja/docs/multi-author/</loc>
+    <loc>https://diego.luissalberto.com/ja/docs/multi-author/</loc>
     <lastmod>2020-08-10T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
-      hreflang="en"
-      href="https://localhost:1313/docs/multi-author/"
+      hreflang="es"
+      href="https://diego.luissalberto.com/docs/multi-author/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="https://localhost:1313/it/docs/multi-author/"
+      href="https://diego.luissalberto.com/it/docs/multi-author/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh-cn"
-      href="https://localhost:1313/zh-cn/docs/multi-author/"
+      href="https://diego.luissalberto.com/zh-cn/docs/multi-author/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="https://localhost:1313/ja/docs/multi-author/"
+      href="https://diego.luissalberto.com/ja/docs/multi-author/"
     />
   </url>
   <url>
-    <loc>https://localhost:1313/ja/tags/partials/</loc>
+    <loc>https://diego.luissalberto.com/ja/tags/partials/</loc>
     <lastmod>2020-08-10T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
-      hreflang="en"
-      href="https://localhost:1313/tags/partials/"
+      hreflang="es"
+      href="https://diego.luissalberto.com/tags/partials/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="https://localhost:1313/it/tags/partials/"
+      href="https://diego.luissalberto.com/it/tags/partials/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh-cn"
-      href="https://localhost:1313/zh-cn/tags/partials/"
+      href="https://diego.luissalberto.com/zh-cn/tags/partials/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="https://localhost:1313/ja/tags/partials/"
+      href="https://diego.luissalberto.com/ja/tags/partials/"
     />
   </url>
   <url>
-    <loc>https://localhost:1313/ja/docs/partials/</loc>
+    <loc>https://diego.luissalberto.com/ja/docs/partials/</loc>
     <lastmod>2020-08-10T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
-      hreflang="en"
-      href="https://localhost:1313/docs/partials/"
+      hreflang="es"
+      href="https://diego.luissalberto.com/docs/partials/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="https://localhost:1313/it/docs/partials/"
+      href="https://diego.luissalberto.com/it/docs/partials/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh-cn"
-      href="https://localhost:1313/zh-cn/docs/partials/"
+      href="https://diego.luissalberto.com/zh-cn/docs/partials/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="https://localhost:1313/ja/docs/partials/"
+      href="https://diego.luissalberto.com/ja/docs/partials/"
     />
   </url>
   <url>
-    <loc>https://localhost:1313/ja/tags/privacy/</loc>
+    <loc>https://diego.luissalberto.com/ja/tags/privacy/</loc>
     <lastmod>2020-08-10T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
-      hreflang="en"
-      href="https://localhost:1313/tags/privacy/"
+      hreflang="es"
+      href="https://diego.luissalberto.com/tags/privacy/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="https://localhost:1313/it/tags/privacy/"
+      href="https://diego.luissalberto.com/it/tags/privacy/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="https://localhost:1313/ja/tags/privacy/"
+      href="https://diego.luissalberto.com/ja/tags/privacy/"
     />
   </url>
   <url>
-    <loc>https://localhost:1313/ja/docs/thumbnails/</loc>
+    <loc>https://diego.luissalberto.com/ja/docs/thumbnails/</loc>
     <lastmod>2020-08-10T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
-      hreflang="en"
-      href="https://localhost:1313/docs/thumbnails/"
+      hreflang="es"
+      href="https://diego.luissalberto.com/docs/thumbnails/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="https://localhost:1313/it/docs/thumbnails/"
+      href="https://diego.luissalberto.com/it/docs/thumbnails/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh-cn"
-      href="https://localhost:1313/zh-cn/docs/thumbnails/"
+      href="https://diego.luissalberto.com/zh-cn/docs/thumbnails/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="https://localhost:1313/ja/docs/thumbnails/"
+      href="https://diego.luissalberto.com/ja/docs/thumbnails/"
     />
   </url>
   <url>
-    <loc>https://localhost:1313/ja/tags/content/</loc>
+    <loc>https://diego.luissalberto.com/ja/tags/content/</loc>
     <lastmod>2020-08-09T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
-      hreflang="en"
-      href="https://localhost:1313/tags/content/"
+      hreflang="es"
+      href="https://diego.luissalberto.com/tags/content/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="https://localhost:1313/it/tags/content/"
+      href="https://diego.luissalberto.com/it/tags/content/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="https://localhost:1313/ja/tags/content/"
+      href="https://diego.luissalberto.com/ja/tags/content/"
     />
   </url>
   <url>
-    <loc>https://localhost:1313/ja/docs/content-examples/</loc>
+    <loc>https://diego.luissalberto.com/ja/docs/content-examples/</loc>
     <lastmod>2020-08-09T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
-      hreflang="en"
-      href="https://localhost:1313/docs/content-examples/"
+      hreflang="es"
+      href="https://diego.luissalberto.com/docs/content-examples/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="https://localhost:1313/it/docs/content-examples/"
+      href="https://diego.luissalberto.com/it/docs/content-examples/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh-cn"
-      href="https://localhost:1313/zh-cn/docs/content-examples/"
+      href="https://diego.luissalberto.com/zh-cn/docs/content-examples/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="https://localhost:1313/ja/docs/content-examples/"
+      href="https://diego.luissalberto.com/ja/docs/content-examples/"
     />
   </url>
   <url>
-    <loc>https://localhost:1313/ja/tags/example/</loc>
+    <loc>https://diego.luissalberto.com/ja/tags/example/</loc>
     <lastmod>2020-08-09T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
-      hreflang="en"
-      href="https://localhost:1313/tags/example/"
+      hreflang="es"
+      href="https://diego.luissalberto.com/tags/example/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="https://localhost:1313/it/tags/example/"
+      href="https://diego.luissalberto.com/it/tags/example/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="https://localhost:1313/ja/tags/example/"
+      href="https://diego.luissalberto.com/ja/tags/example/"
     />
   </url>
   <url>
-    <loc>https://localhost:1313/ja/tags/series/</loc>
+    <loc>https://diego.luissalberto.com/ja/tags/series/</loc>
     <lastmod>2020-08-09T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
-      hreflang="en"
-      href="https://localhost:1313/tags/series/"
+      hreflang="es"
+      href="https://diego.luissalberto.com/tags/series/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="https://localhost:1313/it/tags/series/"
+      href="https://diego.luissalberto.com/it/tags/series/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="https://localhost:1313/ja/tags/series/"
+      href="https://diego.luissalberto.com/ja/tags/series/"
     />
   </url>
   <url>
-    <loc>https://localhost:1313/ja/docs/series/</loc>
+    <loc>https://diego.luissalberto.com/ja/docs/series/</loc>
     <lastmod>2020-08-09T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
-      hreflang="en"
-      href="https://localhost:1313/docs/series/"
+      hreflang="es"
+      href="https://diego.luissalberto.com/docs/series/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="https://localhost:1313/it/docs/series/"
+      href="https://diego.luissalberto.com/it/docs/series/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh-cn"
-      href="https://localhost:1313/zh-cn/docs/series/"
+      href="https://diego.luissalberto.com/zh-cn/docs/series/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="https://localhost:1313/ja/docs/series/"
+      href="https://diego.luissalberto.com/ja/docs/series/"
     />
   </url>
   <url>
-    <loc>https://localhost:1313/ja/docs/advanced-customisation/</loc>
+    <loc>https://diego.luissalberto.com/ja/docs/advanced-customisation/</loc>
     <lastmod>2020-08-08T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
-      hreflang="en"
-      href="https://localhost:1313/docs/advanced-customisation/"
+      hreflang="es"
+      href="https://diego.luissalberto.com/docs/advanced-customisation/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="https://localhost:1313/it/docs/advanced-customisation/"
+      href="https://diego.luissalberto.com/it/docs/advanced-customisation/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh-cn"
-      href="https://localhost:1313/zh-cn/docs/advanced-customisation/"
+      href="https://diego.luissalberto.com/zh-cn/docs/advanced-customisation/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="https://localhost:1313/ja/docs/advanced-customisation/"
+      href="https://diego.luissalberto.com/ja/docs/advanced-customisation/"
     />
   </url>
   <url>
-    <loc>https://localhost:1313/ja/tags/css/</loc>
+    <loc>https://diego.luissalberto.com/ja/tags/css/</loc>
     <lastmod>2020-08-08T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
-      hreflang="en"
-      href="https://localhost:1313/tags/css/"
+      hreflang="es"
+      href="https://diego.luissalberto.com/tags/css/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="https://localhost:1313/it/tags/css/"
+      href="https://diego.luissalberto.com/it/tags/css/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh-cn"
-      href="https://localhost:1313/zh-cn/tags/css/"
+      href="https://diego.luissalberto.com/zh-cn/tags/css/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="https://localhost:1313/ja/tags/css/"
+      href="https://diego.luissalberto.com/ja/tags/css/"
     />
   </url>
   <url>
-    <loc>https://localhost:1313/ja/tags/advanced/</loc>
+    <loc>https://diego.luissalberto.com/ja/tags/advanced/</loc>
     <lastmod>2020-08-08T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
-      hreflang="en"
-      href="https://localhost:1313/tags/advanced/"
+      hreflang="es"
+      href="https://diego.luissalberto.com/tags/advanced/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="https://localhost:1313/it/tags/advanced/"
+      href="https://diego.luissalberto.com/it/tags/advanced/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh-cn"
-      href="https://localhost:1313/zh-cn/tags/advanced/"
+      href="https://diego.luissalberto.com/zh-cn/tags/advanced/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="https://localhost:1313/ja/tags/advanced/"
+      href="https://diego.luissalberto.com/ja/tags/advanced/"
     />
   </url>
   <url>
-    <loc>https://localhost:1313/ja/tags/deployment/</loc>
+    <loc>https://diego.luissalberto.com/ja/tags/deployment/</loc>
     <lastmod>2020-08-07T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
-      hreflang="en"
-      href="https://localhost:1313/tags/deployment/"
+      hreflang="es"
+      href="https://diego.luissalberto.com/tags/deployment/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="https://localhost:1313/it/tags/deployment/"
+      href="https://diego.luissalberto.com/it/tags/deployment/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="https://localhost:1313/ja/tags/deployment/"
+      href="https://diego.luissalberto.com/ja/tags/deployment/"
     />
   </url>
   <url>
-    <loc>https://localhost:1313/ja/tags/github/</loc>
+    <loc>https://diego.luissalberto.com/ja/tags/github/</loc>
     <lastmod>2020-08-07T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
-      hreflang="en"
-      href="https://localhost:1313/tags/github/"
+      hreflang="es"
+      href="https://diego.luissalberto.com/tags/github/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="https://localhost:1313/it/tags/github/"
+      href="https://diego.luissalberto.com/it/tags/github/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh-cn"
-      href="https://localhost:1313/zh-cn/tags/github/"
+      href="https://diego.luissalberto.com/zh-cn/tags/github/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="https://localhost:1313/ja/tags/github/"
+      href="https://diego.luissalberto.com/ja/tags/github/"
     />
   </url>
   <url>
-    <loc>https://localhost:1313/ja/tags/hosting/</loc>
+    <loc>https://diego.luissalberto.com/ja/tags/hosting/</loc>
     <lastmod>2020-08-07T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
-      hreflang="en"
-      href="https://localhost:1313/tags/hosting/"
+      hreflang="es"
+      href="https://diego.luissalberto.com/tags/hosting/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="https://localhost:1313/it/tags/hosting/"
+      href="https://diego.luissalberto.com/it/tags/hosting/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="https://localhost:1313/ja/tags/hosting/"
+      href="https://diego.luissalberto.com/ja/tags/hosting/"
     />
   </url>
   <url>
-    <loc>https://localhost:1313/ja/docs/hosting-deployment/</loc>
+    <loc>https://diego.luissalberto.com/ja/docs/hosting-deployment/</loc>
     <lastmod>2020-08-07T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
-      hreflang="en"
-      href="https://localhost:1313/docs/hosting-deployment/"
+      hreflang="es"
+      href="https://diego.luissalberto.com/docs/hosting-deployment/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="https://localhost:1313/it/docs/hosting-deployment/"
+      href="https://diego.luissalberto.com/it/docs/hosting-deployment/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh-cn"
-      href="https://localhost:1313/zh-cn/docs/hosting-deployment/"
+      href="https://diego.luissalberto.com/zh-cn/docs/hosting-deployment/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="https://localhost:1313/ja/docs/hosting-deployment/"
+      href="https://diego.luissalberto.com/ja/docs/hosting-deployment/"
     />
   </url>
   <url>
-    <loc>https://localhost:1313/ja/tags/netlify/</loc>
+    <loc>https://diego.luissalberto.com/ja/tags/netlify/</loc>
     <lastmod>2020-08-07T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
-      hreflang="en"
-      href="https://localhost:1313/tags/netlify/"
+      hreflang="es"
+      href="https://diego.luissalberto.com/tags/netlify/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="https://localhost:1313/it/tags/netlify/"
+      href="https://diego.luissalberto.com/it/tags/netlify/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh-cn"
-      href="https://localhost:1313/zh-cn/tags/netlify/"
+      href="https://diego.luissalberto.com/zh-cn/tags/netlify/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="https://localhost:1313/ja/tags/netlify/"
+      href="https://diego.luissalberto.com/ja/tags/netlify/"
     />
   </url>
   <url>
-    <loc>https://localhost:1313/ja/tags/render/</loc>
+    <loc>https://diego.luissalberto.com/ja/tags/render/</loc>
     <lastmod>2020-08-07T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
-      hreflang="en"
-      href="https://localhost:1313/tags/render/"
+      hreflang="es"
+      href="https://diego.luissalberto.com/tags/render/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="https://localhost:1313/it/tags/render/"
+      href="https://diego.luissalberto.com/it/tags/render/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="https://localhost:1313/ja/tags/render/"
+      href="https://diego.luissalberto.com/ja/tags/render/"
     />
   </url>
   <url>
-    <loc>https://localhost:1313/ja/tags/firebase/</loc>
+    <loc>https://diego.luissalberto.com/ja/tags/firebase/</loc>
     <lastmod>2020-08-03T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
-      hreflang="en"
-      href="https://localhost:1313/tags/firebase/"
+      hreflang="es"
+      href="https://diego.luissalberto.com/tags/firebase/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="https://localhost:1313/it/tags/firebase/"
+      href="https://diego.luissalberto.com/it/tags/firebase/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh-cn"
-      href="https://localhost:1313/zh-cn/tags/firebase/"
+      href="https://diego.luissalberto.com/zh-cn/tags/firebase/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="https://localhost:1313/ja/tags/firebase/"
+      href="https://diego.luissalberto.com/ja/tags/firebase/"
     />
   </url>
   <url>
-    <loc>https://localhost:1313/ja/docs/firebase-views/</loc>
+    <loc>https://diego.luissalberto.com/ja/docs/firebase-views/</loc>
     <lastmod>2020-08-03T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
-      hreflang="en"
-      href="https://localhost:1313/docs/firebase-views/"
+      hreflang="es"
+      href="https://diego.luissalberto.com/docs/firebase-views/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="https://localhost:1313/it/docs/firebase-views/"
+      href="https://diego.luissalberto.com/it/docs/firebase-views/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh-cn"
-      href="https://localhost:1313/zh-cn/docs/firebase-views/"
+      href="https://diego.luissalberto.com/zh-cn/docs/firebase-views/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="https://localhost:1313/ja/docs/firebase-views/"
+      href="https://diego.luissalberto.com/ja/docs/firebase-views/"
     />
   </url>
   <url>
-    <loc>https://localhost:1313/ja/tags/likes/</loc>
+    <loc>https://diego.luissalberto.com/ja/tags/likes/</loc>
     <lastmod>2020-08-03T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
-      hreflang="en"
-      href="https://localhost:1313/tags/likes/"
+      hreflang="es"
+      href="https://diego.luissalberto.com/tags/likes/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="https://localhost:1313/it/tags/likes/"
+      href="https://diego.luissalberto.com/it/tags/likes/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="https://localhost:1313/ja/tags/likes/"
+      href="https://diego.luissalberto.com/ja/tags/likes/"
     />
   </url>
   <url>
-    <loc>https://localhost:1313/ja/tags/views/</loc>
+    <loc>https://diego.luissalberto.com/ja/tags/views/</loc>
     <lastmod>2020-08-03T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
-      hreflang="en"
-      href="https://localhost:1313/tags/views/"
+      hreflang="es"
+      href="https://diego.luissalberto.com/tags/views/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="https://localhost:1313/it/tags/views/"
+      href="https://diego.luissalberto.com/it/tags/views/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="https://localhost:1313/ja/tags/views/"
+      href="https://diego.luissalberto.com/ja/tags/views/"
     />
   </url>
   <url>
-    <loc>https://localhost:1313/ja/tags/html/</loc>
+    <loc>https://diego.luissalberto.com/ja/tags/html/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
-      hreflang="en"
-      href="https://localhost:1313/tags/html/"
+      hreflang="es"
+      href="https://diego.luissalberto.com/tags/html/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="https://localhost:1313/it/tags/html/"
+      href="https://diego.luissalberto.com/it/tags/html/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh-cn"
-      href="https://localhost:1313/zh-cn/tags/html/"
+      href="https://diego.luissalberto.com/zh-cn/tags/html/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="https://localhost:1313/ja/tags/html/"
+      href="https://diego.luissalberto.com/ja/tags/html/"
     />
   </url>
   <url>
-    <loc>https://localhost:1313/ja/tags/markdown/</loc>
+    <loc>https://diego.luissalberto.com/ja/tags/markdown/</loc>
     <lastmod>2022-01-24T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
-      hreflang="en"
-      href="https://localhost:1313/tags/markdown/"
+      hreflang="es"
+      href="https://diego.luissalberto.com/tags/markdown/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="https://localhost:1313/it/tags/markdown/"
+      href="https://diego.luissalberto.com/it/tags/markdown/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh-cn"
-      href="https://localhost:1313/zh-cn/tags/markdown/"
+      href="https://diego.luissalberto.com/zh-cn/tags/markdown/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="https://localhost:1313/ja/tags/markdown/"
+      href="https://diego.luissalberto.com/ja/tags/markdown/"
     />
   </url>
   <url>
-    <loc>https://localhost:1313/ja/samples/markdown/</loc>
+    <loc>https://diego.luissalberto.com/ja/samples/markdown/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
-      hreflang="en"
-      href="https://localhost:1313/samples/markdown/"
+      hreflang="es"
+      href="https://diego.luissalberto.com/samples/markdown/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="https://localhost:1313/it/samples/markdown/"
+      href="https://diego.luissalberto.com/it/samples/markdown/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh-cn"
-      href="https://localhost:1313/zh-cn/samples/markdown/"
+      href="https://diego.luissalberto.com/zh-cn/samples/markdown/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="https://localhost:1313/ja/samples/markdown/"
+      href="https://diego.luissalberto.com/ja/samples/markdown/"
     />
   </url>
   <url>
-    <loc>https://localhost:1313/ja/tags/gist/</loc>
+    <loc>https://diego.luissalberto.com/ja/tags/gist/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
-      hreflang="en"
-      href="https://localhost:1313/tags/gist/"
+      hreflang="es"
+      href="https://diego.luissalberto.com/tags/gist/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="https://localhost:1313/it/tags/gist/"
+      href="https://diego.luissalberto.com/it/tags/gist/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh-cn"
-      href="https://localhost:1313/zh-cn/tags/gist/"
+      href="https://diego.luissalberto.com/zh-cn/tags/gist/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="https://localhost:1313/ja/tags/gist/"
+      href="https://diego.luissalberto.com/ja/tags/gist/"
     />
   </url>
   <url>
-    <loc>https://localhost:1313/ja/tags/twitter/</loc>
+    <loc>https://diego.luissalberto.com/ja/tags/twitter/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
-      hreflang="en"
-      href="https://localhost:1313/tags/twitter/"
+      hreflang="es"
+      href="https://diego.luissalberto.com/tags/twitter/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="https://localhost:1313/it/tags/twitter/"
+      href="https://diego.luissalberto.com/it/tags/twitter/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh-cn"
-      href="https://localhost:1313/zh-cn/tags/twitter/"
+      href="https://diego.luissalberto.com/zh-cn/tags/twitter/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="https://localhost:1313/ja/tags/twitter/"
+      href="https://diego.luissalberto.com/ja/tags/twitter/"
     />
   </url>
   <url>
-    <loc>https://localhost:1313/ja/tags/vimeo/</loc>
+    <loc>https://diego.luissalberto.com/ja/tags/vimeo/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
-      hreflang="en"
-      href="https://localhost:1313/tags/vimeo/"
+      hreflang="es"
+      href="https://diego.luissalberto.com/tags/vimeo/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="https://localhost:1313/it/tags/vimeo/"
+      href="https://diego.luissalberto.com/it/tags/vimeo/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh-cn"
-      href="https://localhost:1313/zh-cn/tags/vimeo/"
+      href="https://diego.luissalberto.com/zh-cn/tags/vimeo/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="https://localhost:1313/ja/tags/vimeo/"
+      href="https://diego.luissalberto.com/ja/tags/vimeo/"
     />
   </url>
   <url>
-    <loc>https://localhost:1313/ja/tags/youtube/</loc>
+    <loc>https://diego.luissalberto.com/ja/tags/youtube/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
-      hreflang="en"
-      href="https://localhost:1313/tags/youtube/"
+      hreflang="es"
+      href="https://diego.luissalberto.com/tags/youtube/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="https://localhost:1313/it/tags/youtube/"
+      href="https://diego.luissalberto.com/it/tags/youtube/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh-cn"
-      href="https://localhost:1313/zh-cn/tags/youtube/"
+      href="https://diego.luissalberto.com/zh-cn/tags/youtube/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="https://localhost:1313/ja/tags/youtube/"
+      href="https://diego.luissalberto.com/ja/tags/youtube/"
     />
   </url>
   <url>
-    <loc>https://localhost:1313/ja/samples/rich-content/</loc>
+    <loc>https://diego.luissalberto.com/ja/samples/rich-content/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
-      hreflang="en"
-      href="https://localhost:1313/samples/rich-content/"
+      hreflang="es"
+      href="https://diego.luissalberto.com/samples/rich-content/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="https://localhost:1313/it/samples/rich-content/"
+      href="https://diego.luissalberto.com/it/samples/rich-content/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh-cn"
-      href="https://localhost:1313/zh-cn/samples/rich-content/"
+      href="https://diego.luissalberto.com/zh-cn/samples/rich-content/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="https://localhost:1313/ja/samples/rich-content/"
+      href="https://diego.luissalberto.com/ja/samples/rich-content/"
     />
   </url>
   <url>
-    <loc>https://localhost:1313/ja/tags/latin/</loc>
+    <loc>https://diego.luissalberto.com/ja/tags/latin/</loc>
     <lastmod>2022-01-24T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
-      hreflang="en"
-      href="https://localhost:1313/tags/latin/"
+      hreflang="es"
+      href="https://diego.luissalberto.com/tags/latin/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="https://localhost:1313/it/tags/latin/"
+      href="https://diego.luissalberto.com/it/tags/latin/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="https://localhost:1313/ja/tags/latin/"
+      href="https://diego.luissalberto.com/ja/tags/latin/"
     />
   </url>
   <url>
-    <loc>https://localhost:1313/ja/tags/text/</loc>
+    <loc>https://diego.luissalberto.com/ja/tags/text/</loc>
     <lastmod>2022-01-24T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
-      hreflang="en"
-      href="https://localhost:1313/tags/text/"
+      hreflang="es"
+      href="https://diego.luissalberto.com/tags/text/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="https://localhost:1313/it/tags/text/"
+      href="https://diego.luissalberto.com/it/tags/text/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="https://localhost:1313/ja/tags/text/"
+      href="https://diego.luissalberto.com/ja/tags/text/"
     />
   </url>
   <url>
-    <loc>https://localhost:1313/ja/tags/katex/</loc>
+    <loc>https://diego.luissalberto.com/ja/tags/katex/</loc>
     <lastmod>2019-03-08T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
-      hreflang="en"
-      href="https://localhost:1313/tags/katex/"
+      hreflang="es"
+      href="https://diego.luissalberto.com/tags/katex/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="https://localhost:1313/it/tags/katex/"
+      href="https://diego.luissalberto.com/it/tags/katex/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh-cn"
-      href="https://localhost:1313/zh-cn/tags/katex/"
+      href="https://diego.luissalberto.com/zh-cn/tags/katex/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="https://localhost:1313/ja/tags/katex/"
+      href="https://diego.luissalberto.com/ja/tags/katex/"
     />
   </url>
   <url>
-    <loc>https://localhost:1313/ja/tags/maths/</loc>
+    <loc>https://diego.luissalberto.com/ja/tags/maths/</loc>
     <lastmod>2019-03-08T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
-      hreflang="en"
-      href="https://localhost:1313/tags/maths/"
+      hreflang="es"
+      href="https://diego.luissalberto.com/tags/maths/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="https://localhost:1313/it/tags/maths/"
+      href="https://diego.luissalberto.com/it/tags/maths/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="https://localhost:1313/ja/tags/maths/"
+      href="https://diego.luissalberto.com/ja/tags/maths/"
     />
   </url>
   <url>
-    <loc>https://localhost:1313/ja/samples/mathematical-notation/</loc>
+    <loc>https://diego.luissalberto.com/ja/samples/mathematical-notation/</loc>
     <lastmod>2019-03-08T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
-      hreflang="en"
-      href="https://localhost:1313/samples/mathematical-notation/"
+      hreflang="es"
+      href="https://diego.luissalberto.com/samples/mathematical-notation/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="https://localhost:1313/it/samples/mathematical-notation/"
+      href="https://diego.luissalberto.com/it/samples/mathematical-notation/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh-cn"
-      href="https://localhost:1313/zh-cn/samples/mathematical-notation/"
+      href="https://diego.luissalberto.com/zh-cn/samples/mathematical-notation/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="https://localhost:1313/ja/samples/mathematical-notation/"
+      href="https://diego.luissalberto.com/ja/samples/mathematical-notation/"
     />
   </url>
   <url>
-    <loc>https://localhost:1313/ja/tags/chart/</loc>
+    <loc>https://diego.luissalberto.com/ja/tags/chart/</loc>
     <lastmod>2019-03-06T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
-      hreflang="en"
-      href="https://localhost:1313/tags/chart/"
+      hreflang="es"
+      href="https://diego.luissalberto.com/tags/chart/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="https://localhost:1313/it/tags/chart/"
+      href="https://diego.luissalberto.com/it/tags/chart/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="https://localhost:1313/ja/tags/chart/"
+      href="https://diego.luissalberto.com/ja/tags/chart/"
     />
   </url>
   <url>
-    <loc>https://localhost:1313/ja/tags/diagram/</loc>
+    <loc>https://diego.luissalberto.com/ja/tags/diagram/</loc>
     <lastmod>2019-03-06T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
-      hreflang="en"
-      href="https://localhost:1313/tags/diagram/"
+      hreflang="es"
+      href="https://diego.luissalberto.com/tags/diagram/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="https://localhost:1313/it/tags/diagram/"
+      href="https://diego.luissalberto.com/it/tags/diagram/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="https://localhost:1313/ja/tags/diagram/"
+      href="https://diego.luissalberto.com/ja/tags/diagram/"
     />
   </url>
   <url>
-    <loc>https://localhost:1313/ja/tags/graph/</loc>
+    <loc>https://diego.luissalberto.com/ja/tags/graph/</loc>
     <lastmod>2019-03-06T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
-      hreflang="en"
-      href="https://localhost:1313/tags/graph/"
+      hreflang="es"
+      href="https://diego.luissalberto.com/tags/graph/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="https://localhost:1313/it/tags/graph/"
+      href="https://diego.luissalberto.com/it/tags/graph/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="https://localhost:1313/ja/tags/graph/"
+      href="https://diego.luissalberto.com/ja/tags/graph/"
     />
   </url>
   <url>
-    <loc>https://localhost:1313/ja/samples/diagrams-flowcharts/</loc>
+    <loc>https://diego.luissalberto.com/ja/samples/diagrams-flowcharts/</loc>
     <lastmod>2019-03-06T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
-      hreflang="en"
-      href="https://localhost:1313/samples/diagrams-flowcharts/"
+      hreflang="es"
+      href="https://diego.luissalberto.com/samples/diagrams-flowcharts/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="https://localhost:1313/it/samples/diagrams-flowcharts/"
+      href="https://diego.luissalberto.com/it/samples/diagrams-flowcharts/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh-cn"
-      href="https://localhost:1313/zh-cn/samples/diagrams-flowcharts/"
+      href="https://diego.luissalberto.com/zh-cn/samples/diagrams-flowcharts/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="https://localhost:1313/ja/samples/diagrams-flowcharts/"
+      href="https://diego.luissalberto.com/ja/samples/diagrams-flowcharts/"
     />
   </url>
   <url>
-    <loc>https://localhost:1313/ja/samples/charts/</loc>
+    <loc>https://diego.luissalberto.com/ja/samples/charts/</loc>
     <lastmod>2019-03-06T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
-      hreflang="en"
-      href="https://localhost:1313/samples/charts/"
+      hreflang="es"
+      href="https://diego.luissalberto.com/samples/charts/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="https://localhost:1313/it/samples/charts/"
+      href="https://diego.luissalberto.com/it/samples/charts/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh-cn"
-      href="https://localhost:1313/zh-cn/samples/charts/"
+      href="https://diego.luissalberto.com/zh-cn/samples/charts/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="https://localhost:1313/ja/samples/charts/"
+      href="https://diego.luissalberto.com/ja/samples/charts/"
     />
   </url>
   <url>
-    <loc>https://localhost:1313/ja/tags/emoji/</loc>
+    <loc>https://diego.luissalberto.com/ja/tags/emoji/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
-      hreflang="en"
-      href="https://localhost:1313/tags/emoji/"
+      hreflang="es"
+      href="https://diego.luissalberto.com/tags/emoji/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="https://localhost:1313/it/tags/emoji/"
+      href="https://diego.luissalberto.com/it/tags/emoji/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh-cn"
-      href="https://localhost:1313/zh-cn/tags/emoji/"
+      href="https://diego.luissalberto.com/zh-cn/tags/emoji/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="https://localhost:1313/ja/tags/emoji/"
+      href="https://diego.luissalberto.com/ja/tags/emoji/"
     />
   </url>
   <url>
-    <loc>https://localhost:1313/ja/samples/emoji/</loc>
+    <loc>https://diego.luissalberto.com/ja/samples/emoji/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
-      hreflang="en"
-      href="https://localhost:1313/samples/emoji/"
+      hreflang="es"
+      href="https://diego.luissalberto.com/samples/emoji/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="https://localhost:1313/it/samples/emoji/"
+      href="https://diego.luissalberto.com/it/samples/emoji/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh-cn"
-      href="https://localhost:1313/zh-cn/samples/emoji/"
+      href="https://diego.luissalberto.com/zh-cn/samples/emoji/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="https://localhost:1313/ja/samples/emoji/"
+      href="https://diego.luissalberto.com/ja/samples/emoji/"
     />
   </url>
   <url>
-    <loc>https://localhost:1313/ja/tags/template/</loc>
+    <loc>https://diego.luissalberto.com/ja/tags/template/</loc>
     <lastmod>1987-12-22T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
-      hreflang="en"
-      href="https://localhost:1313/tags/template/"
+      hreflang="es"
+      href="https://diego.luissalberto.com/tags/template/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="https://localhost:1313/it/tags/template/"
+      href="https://diego.luissalberto.com/it/tags/template/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="https://localhost:1313/ja/tags/template/"
+      href="https://diego.luissalberto.com/ja/tags/template/"
     />
   </url>
   <url>
-    <loc>https://localhost:1313/ja/guides/template/</loc>
+    <loc>https://diego.luissalberto.com/ja/guides/template/</loc>
     <lastmod>1987-12-22T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
-      hreflang="en"
-      href="https://localhost:1313/guides/template/"
+      hreflang="es"
+      href="https://diego.luissalberto.com/guides/template/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="https://localhost:1313/it/guides/template/"
+      href="https://diego.luissalberto.com/it/guides/template/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh-cn"
-      href="https://localhost:1313/zh-cn/guides/template/"
+      href="https://diego.luissalberto.com/zh-cn/guides/template/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="https://localhost:1313/ja/guides/template/"
+      href="https://diego.luissalberto.com/ja/guides/template/"
     />
   </url>
 </urlset>
